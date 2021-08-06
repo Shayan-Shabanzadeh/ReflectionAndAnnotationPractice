@@ -1,0 +1,6 @@
+family-Name , isAlive , nam , Age
+mohamado , true , ali , 123
+asef , false , ali1 , 12wefwf3
+mohamadwfwefo , true , ali2 , wfwew
+weffwef , false , ali3 , fwefew
+
